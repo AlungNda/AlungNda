@@ -74,7 +74,7 @@
 
 <div align="center">
   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Synthever&theme=dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=AlungNda&theme=dark)](https://git.io/streak-stats)
   
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=synthever&layout=compact&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api?username=synthever&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlungNda&layout=compact&theme=dracula" />
 </div>
 
 
